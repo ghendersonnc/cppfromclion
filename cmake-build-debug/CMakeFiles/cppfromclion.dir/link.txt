@@ -1,0 +1,3 @@
+C:\Users\gabe\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cppfromclion.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\cppfromclion.dir/objects.a @CMakeFiles\cppfromclion.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cppfromclion.dir/objects.a -Wl,--no-whole-archive -o cppfromclion.exe -Wl,--out-implib,libcppfromclion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cppfromclion.dir\linklibs.rsp
